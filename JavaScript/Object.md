@@ -122,7 +122,7 @@ const another = Object.assign({}, circle);
 const another = { ...circle };
 ```
 
-## Math Oject
+## Math Object
 看文档
 
 ## String
